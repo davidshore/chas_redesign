@@ -38,7 +38,8 @@ Navigeringen ska vara på en rad. Knapparna i navigeringen ska tonas ner så att
 Behåll en Main Lockup (Huvudrubrik, underrubrik och knapp med call to action). Använd max 3 delar i Hero-sektionen.
 Om ni vill kan ni använda nya bilder eller illustrationer. T.ex. [business illustrations](https://www.freepik.com/free-photos-vectors/business-illustration)
 
-###Responsiv
+### Responsiv
+
 Gör sajten responsiv så att den funkar både på mobil och desktop.
 
 ## Hur du lämnar in
