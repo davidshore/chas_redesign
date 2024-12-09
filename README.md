@@ -4,7 +4,7 @@ I dagens uppgift ska ni designa om förstasidan på zoom.us för att göra den m
 
 ### Sätt upp projektet
 
-Installera tailwind enligt [förra workshopen](https://github.com/davidshore/chas_tailwind)
+Installera tailwind: [Install tailwind](https://tailwindcss.com/docs/installation)
 
 ## Hur du klarar uppgiften
 
