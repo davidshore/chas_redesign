@@ -4,10 +4,7 @@ I dagens uppgift ska ni designa om förstasidan på zoom.us för att göra den m
 
 ### Sätt upp projektet
 
-1. Öppna en terminal och gå med `cd` där du vill skapa projektet.
-2. Skriv `npm create vite@latest zoom-redesign`
-3. Välj Vanilla js och sen Javascript i följande frågor.
-4. Gör resten enligt [förra workshopen](https://github.com/davidshore/chas_tailwind)
+Installera tailwind enligt [förra workshopen](https://github.com/davidshore/chas_tailwind)
 
 ## Hur du klarar uppgiften
 
